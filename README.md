@@ -1,5 +1,5 @@
 # Schulprojekt-Bibliothek
 Online Bibliothek zum ausleihen von Büchern.
-![Unbenannt](https://github.com/SeannPr/Schulprojekt-Bibliothek/assets/111420945/3869aebd-82cd-4049-9dfb-7cd0c245e46e)
+![Unbenannt](https://github.com/SeannPr/Schulprojekt-Bibliothek/assets/111420945/db40ca8a-a825-4d48-b635-e4efc528828e)
 
 
