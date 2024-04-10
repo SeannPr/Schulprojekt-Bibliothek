@@ -16,5 +16,7 @@ namespace Schulprojekt_Bibliothek
         public string Stadt { get; set; }    // City
         public int Userld { get; set; }      // Foreign Key
         public int Pin { get; set; }         // Personal Identification Number
+        // Navigation property to Ausleihungen
+        public List<Ausleihungen> Ausleihungen { get; set; }
     }
 }

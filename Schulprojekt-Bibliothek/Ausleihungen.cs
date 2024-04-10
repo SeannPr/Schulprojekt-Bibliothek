@@ -12,8 +12,9 @@ namespace Schulprojekt_Bibliothek
         public int Userld { get; set; }         // Foreign Key
         public User User { get; set; }          // Navigation property to User
         public string Buch { get; set; }        // Title of the book borrowed
-        public int AusleihDatum { get; set; }   // Date when the book was borrowed
-        public int AbgabeDatum { get; set; }    // Date when the book is due to be returned
+        public DateTime AusleihDatum { get; set; }   // Date when the book was borrowed
+        public DateTime AbgabeDatum { get; set; }    // Date when the book is due to be returned
+
     }
 
 }
